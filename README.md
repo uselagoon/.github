@@ -7,5 +7,5 @@ Check out our blog over at https://dev.to/uselagoon
 
 ### Recent Articles
 <!--START_SECTION:devtofeed-->
-
+...
 <!--END_SECTION:devtofeed-->

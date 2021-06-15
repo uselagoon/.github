@@ -1,0 +1,20 @@
+name: Update this repo's README with the latest blog posts
+
+on:
+  schedule:
+    # At 5 past the hour
+    - cron: 5 * * * *
+  push:
+    branches:
+      - main
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: JasonEtco/rss-to-readme@v1
+        with:
+          feed-url: https://dev.to/feed/uselagoon
+          readme-section: dev-to-feed
+          branch: main
+          max: 15

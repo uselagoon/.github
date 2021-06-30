@@ -25,6 +25,7 @@ Check out our blog over at https://dev.to/uselagoon, where we write about how we
 
 ### Recent Articles
 <!--START_SECTION:devtofeed-->
+* [Lagoon Community Hours](https:&#x2F;&#x2F;dev.to&#x2F;uselagoon&#x2F;lagoon-community-hours-4e2c)
 * [Lagoon 2 release candidate available](https:&#x2F;&#x2F;dev.to&#x2F;uselagoon&#x2F;lagoon-2-release-candidate-available-1f3l)
 * [Portainer.io](https:&#x2F;&#x2F;dev.to&#x2F;uselagoon&#x2F;portainer-io-2c04)
 * [Moving Lagoon to semantic versioned Docker Images](https:&#x2F;&#x2F;dev.to&#x2F;uselagoon&#x2F;moving-lagoon-to-semantic-versioned-docker-images-57d0)

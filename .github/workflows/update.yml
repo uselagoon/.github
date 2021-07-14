@@ -3,7 +3,7 @@ name: Update this repo's README with the latest blog posts
 on:
   schedule:
     # At 5 past the hour
-    - cron: 5 * * * *
+    - cron: 5 9,18 * * 1-5
   push:
     branches:
       - main

@@ -25,6 +25,7 @@ Check out our blog over at https://dev.to/uselagoon, where we write about how we
 
 ### Recent Articles
 <!--START_SECTION:devtofeed-->
+* [Releasing more versions of more images more often](https:&#x2F;&#x2F;dev.to&#x2F;uselagoon&#x2F;releasing-more-versions-of-more-images-more-often-12h)
 * [Automating Lagoon Image updates from Upstream Source images](https:&#x2F;&#x2F;dev.to&#x2F;uselagoon&#x2F;automating-updates-from-upstream-source-images-20ee)
 * [Lagoon Community Hours](https:&#x2F;&#x2F;dev.to&#x2F;uselagoon&#x2F;lagoon-community-hours-4e2c)
 * [Lagoon 2 release candidate available](https:&#x2F;&#x2F;dev.to&#x2F;uselagoon&#x2F;lagoon-2-release-candidate-available-1f3l)

@@ -25,6 +25,7 @@ Check out our blog over at https://dev.to/uselagoon, where we write about how we
 
 ### Recent Articles
 <!--START_SECTION:devtofeed-->
+* [Lagoon and the CNCF - What’s the Plan?](https:&#x2F;&#x2F;dev.to&#x2F;uselagoon&#x2F;lagoon-and-the-cncf-what-s-the-plan-lk3)
 * [Improving image-specific testing with actual examples](https:&#x2F;&#x2F;dev.to&#x2F;uselagoon&#x2F;improving-image-specific-testing-with-actual-examples-2p8p)
 * [Releasing more versions of more images more often](https:&#x2F;&#x2F;dev.to&#x2F;uselagoon&#x2F;releasing-more-versions-of-more-images-more-often-12h)
 * [Automating Lagoon Image updates from Upstream Source images](https:&#x2F;&#x2F;dev.to&#x2F;uselagoon&#x2F;automating-updates-from-upstream-source-images-20ee)

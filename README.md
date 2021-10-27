@@ -16,7 +16,9 @@ Our main documentation has been collated over at https://docs.lagoon.sh - head o
 ## Social Media
 
 We have a twitter account at https://www.twitter.com/uselagoon
-Our Instragram is at https://www.instagram.com/uselagoon if we work out what to post there!
+
+Our Instagram is at https://www.instagram.com/uselagoon if we work out what to post there!
+
 We're in the process of setting up a few others too.
 
 ## Blog
@@ -41,7 +43,7 @@ Lagoon Hacktoberfest 2020 – call for more examples!](https:&#x2F;&#x2F;dev.to&
 
 ## Community Hours
 
-We will be holding a regular scheduled community hour, where anyone in the community is welcome to drop in and ask us questions, talk about projects, and chat.
+We will be holding a regularly scheduled community hour, where anyone in the community is welcome to drop in and ask us questions, talk about projects, and chat.
 It is currently scheduled to be held every two weeks, alternating between US and EU friendly timezones.
 
 ### US timezone

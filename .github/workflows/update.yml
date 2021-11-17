@@ -17,4 +17,5 @@ jobs:
           feed-url: https://dev.to/feed/uselagoon
           readme-section: devtofeed
           branch: main
-          max: 15
+          path: profile/README.md
+          max: 5

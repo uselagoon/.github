@@ -27,11 +27,11 @@ Check out our blog over at https://dev.to/uselagoon, where we write about how we
 
 ### Recent Articles
 <!--START_SECTION:devtofeed-->
+* [Lagoon Documentation Update](https:&#x2F;&#x2F;dev.to&#x2F;uselagoon&#x2F;lagoon-documentation-update-5clm)
 * [Lagoon and the CNCF - What’s Next](https:&#x2F;&#x2F;dev.to&#x2F;uselagoon&#x2F;lagoon-and-the-cncf-whats-next-41k)
 * [November release update](https:&#x2F;&#x2F;dev.to&#x2F;uselagoon&#x2F;november-release-update-300o)
 * [Lagoon and the CNCF - Getting Started](https:&#x2F;&#x2F;dev.to&#x2F;uselagoon&#x2F;lagoon-and-the-cncf-getting-started-5911)
 * [Lagoon 2.0.0 released](https:&#x2F;&#x2F;dev.to&#x2F;uselagoon&#x2F;lagoon-2-0-0-released-hil)
-* [Lagoon and the CNCF - What’s the Plan?](https:&#x2F;&#x2F;dev.to&#x2F;uselagoon&#x2F;lagoon-and-the-cncf-what-s-the-plan-lk3)
 <!--END_SECTION:devtofeed-->
 
 ## Community Hours

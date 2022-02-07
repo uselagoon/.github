@@ -39,9 +39,10 @@ Check out our blog over at https://dev.to/uselagoon, where we write about how we
 We will be holding a regularly scheduled community hour, where anyone in the community is welcome to drop in and ask us questions, talk about projects, and chat.
 It is currently scheduled to be held every two weeks, alternating between US and EU friendly timezones.
 
+Join us at https://amazeeio.zoom.us/j/93518971102?pwd=UUp1RGJ6NDUyNGVxdUJNUE13czFHZz09 (no registration needed, just drop in)
+
 ### US timezone
-Every fourth Thursday, starting at 14:00 PDT / 16:00 CDT / 17:00 EDT / 07:00 AEST (Fri) / 09:00 NZST (Fri) - check your timezone at https://dateful.com/eventlink/2693259984
+Every fourth Thursday, in the US afternoon / AusNZ early morning - check your timezone at https://dateful.com/eventlink/2693259984
 
-Join us at https://amazee.zoom.us/j/93518971102?pwd=UUp1RGJ6NDUyNGVxdUJNUE13czFHZz09 (no registration needed, just drop in)
-
-### EU timezone TBA
+### EU timezone
+Every fourth Tuesday, in the EU morning / AusNZ evening - check your timezone at https://dateful.com/eventlink/3029145427

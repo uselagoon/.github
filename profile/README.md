@@ -1,25 +1,34 @@
 # Community
-A central location for links out to the Lagoon community
+A central location for links out to the Lagoon community.
 
-## Project Roadmap
+## Table of Contents
+1. Documentation
+2. Roadmap
+3. Project Discussions
+4. Social Media
+5. Blog
+6. Community Hours
+7. Contribution
 
-We are going to be using this repository's [Project](https://github.com/uselagoon/community/projects/1) as a temporary roadmap whilst we complete our website.
-
-## Project Discussions
-
-Likewise, we will be consolidating discussions about Lagoon into this repository - https://github.com/uselagoon/community/discussions.  We will continue to ask our community for input, and try to hold some of the coordination here.
 
 ## Documentation
-
 Our main documentation has been collated over at https://docs.lagoon.sh - head over there to see what's what - if you think we're missing something, please let us know.
+
+## Roadmap
+We are going to be using this repository's Project as a temporary roadmap whilst we complete our website.
+
+## Project Discussions
+Likewise, we will be consolidating discussions about Lagoon into this repository - https://github.com/uselagoon/community/discussions. We will continue to ask our community for input, and try to hold some of the coordination here.
 
 ## Social Media
 
-We have a twitter account at https://www.twitter.com/uselagoon
+Follow us on Twitter: https://www.twitter.com/uselagoon
 
-Our Instagram is at https://www.instagram.com/uselagoon if we work out what to post there!
+Our Instagram is at https://www.instagram.com/uselagoon, though we haven’t had anything to post there yet - stay tuned!
 
-We're in the process of setting up a few others too.
+Chat with us on Discord, and stay up to date with releases and blog posts: https://discord.gg/te5hHe95JE
+
+If you’re a part of the Drupal community, feel free to join us on the Drupal Slack (https://www.drupal.org/community/contributor-guide/reference-information/talk/tools/slack), in our #lagoon channel. 
 
 ## Blog
 
@@ -37,7 +46,7 @@ Check out our blog over at https://dev.to/uselagoon, where we write about how we
 ## Community Hours
 
 We will be holding a regularly scheduled community hour, where anyone in the community is welcome to drop in and ask us questions, talk about projects, and chat.
-It is currently scheduled to be held every two weeks, alternating between US and EU friendly timezones.
+It is currently scheduled to be held every two weeks, alternating between US and EU friendly timezones. [See the full 2022 schedule here on our blog](https://dev.to/uselagoon/lagoon-community-hours-2022-4bd4).
 
 Join us at https://amazeeio.zoom.us/j/93518971102?pwd=UUp1RGJ6NDUyNGVxdUJNUE13czFHZz09 (no registration needed, just drop in)
 
@@ -46,3 +55,10 @@ Every fourth Thursday, in the US afternoon / AusNZ early morning - check your ti
 
 ### EU timezone
 Every fourth Tuesday, in the EU morning / AusNZ evening - check your timezone at https://dateful.com/eventlink/3029145427
+
+## Contribution
+
+As an open source project, we LOVE contributions. We have some info on getting started in our documentation: https://docs.lagoon.sh/contributing/ . We'd also love for you to join us at a community hour or through any of our social media to chat about how you can contribute to Lagoon!
+
+
+

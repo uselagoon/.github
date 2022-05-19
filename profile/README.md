@@ -26,6 +26,8 @@ Follow us on Twitter: https://www.twitter.com/uselagoon
 
 Our Instagram is at https://www.instagram.com/uselagoon, though we haven’t had anything to post there yet - stay tuned!
 
+## Join the Conversation
+
 Chat with us on Discord, and stay up to date with releases and blog posts: https://discord.gg/te5hHe95JE
 
 If you’re a part of the Drupal community, feel free to join us on the Drupal Slack (https://www.drupal.org/community/contributor-guide/reference-information/talk/tools/slack), in our #lagoon channel. 
@@ -46,15 +48,13 @@ Check out our blog over at https://dev.to/uselagoon, where we write about how we
 ## Community Hours
 
 We will be holding a regularly scheduled community hour, where anyone in the community is welcome to drop in and ask us questions, talk about projects, and chat.
-It is currently scheduled to be held every two weeks, alternating between US and EU friendly timezones. [See the full 2022 schedule here on our blog](https://dev.to/uselagoon/lagoon-community-hours-2022-4bd4).
-
-Join us at https://amazeeio.zoom.us/j/93518971102?pwd=UUp1RGJ6NDUyNGVxdUJNUE13czFHZz09 (no registration needed, just drop in)
+It is currently scheduled to be held every two weeks, alternating between US and EU friendly timezones.
 
 ### US timezone
-Every fourth Thursday, in the US afternoon / AusNZ early morning - check your timezone at https://dateful.com/eventlink/2693259984
+Every fourth Thursday, in the US afternoon / AusNZ early morning - check your timezone and next meeting at https://dateful.com/eventlink/2693259984
 
 ### EU timezone
-Every fourth Tuesday, in the EU morning / AusNZ evening - check your timezone at https://dateful.com/eventlink/3029145427
+Every fourth Tuesday, in the EU morning / AusNZ evening - check your timezone and next meeting at https://dateful.com/eventlink/3029145427
 
 ## Contribution
 

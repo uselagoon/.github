@@ -38,11 +38,11 @@ Check out our blog over at https://dev.to/uselagoon, where we write about how we
 
 ### Recent Articles
 <!--START_SECTION:devtofeed-->
+* [How we&#39;re smashing our technical debt](https:&#x2F;&#x2F;dev.to&#x2F;uselagoon&#x2F;how-were-smashing-our-technical-debt-2m20)
 * [Lagoon + Kubernetes 1.22 🥳](https:&#x2F;&#x2F;dev.to&#x2F;uselagoon&#x2F;lagoon-kubernetes-122-ek8)
 * [Lagoon Community Hours 2022](https:&#x2F;&#x2F;dev.to&#x2F;uselagoon&#x2F;lagoon-community-hours-2022-4bd4)
 * [Lagoon Documentation Update](https:&#x2F;&#x2F;dev.to&#x2F;uselagoon&#x2F;lagoon-documentation-update-5clm)
 * [Lagoon and the CNCF - What’s Next](https:&#x2F;&#x2F;dev.to&#x2F;uselagoon&#x2F;lagoon-and-the-cncf-whats-next-41k)
-* [November release update](https:&#x2F;&#x2F;dev.to&#x2F;uselagoon&#x2F;november-release-update-300o)
 <!--END_SECTION:devtofeed-->
 
 ## Community Hours

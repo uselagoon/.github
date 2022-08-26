@@ -38,11 +38,11 @@ Check out our blog over at https://dev.to/uselagoon, where we write about how we
 
 ### Recent Articles
 <!--START_SECTION:devtofeed-->
+* [It&#39;s all in the details! (.com)](https:&#x2F;&#x2F;dev.to&#x2F;uselagoon&#x2F;its-all-in-the-details-com-2c80)
 * [Juggling support levels with a small team - how do we keep all the balls in the air?](https:&#x2F;&#x2F;dev.to&#x2F;uselagoon&#x2F;juggling-support-levels-with-a-small-team-how-do-we-keep-all-the-balls-in-the-air-5gjf)
 * [Cloud-native - it’s a big buzzword these days, but what does it mean for me?](https:&#x2F;&#x2F;dev.to&#x2F;uselagoon&#x2F;cloud-native-its-a-big-buzzword-these-days-but-what-does-it-mean-for-me-5855)
 * [amazee.io (and Lagoon) join Mirantis](https:&#x2F;&#x2F;dev.to&#x2F;uselagoon&#x2F;amazeeio-and-lagoon-join-mirantis-5cp0)
 * [How we&#39;re smashing our technical debt](https:&#x2F;&#x2F;dev.to&#x2F;uselagoon&#x2F;how-were-smashing-our-technical-debt-2m20)
-* [Lagoon + Kubernetes 1.22 🥳](https:&#x2F;&#x2F;dev.to&#x2F;uselagoon&#x2F;lagoon-kubernetes-122-ek8)
 <!--END_SECTION:devtofeed-->
 
 ## Community Hours

@@ -38,11 +38,11 @@ Check out our blog over at https://dev.to/uselagoon, where we write about how we
 
 ### Recent Articles
 <!--START_SECTION:devtofeed-->
+* [The Lagoon team at DrupalCon Prague!](https:&#x2F;&#x2F;dev.to&#x2F;uselagoon&#x2F;the-lagoon-team-at-drupalcon-prague-212e)
 * [Waiting for an upstream fix - what&#39;s an open-source project to do?](https:&#x2F;&#x2F;dev.to&#x2F;uselagoon&#x2F;waiting-for-an-upstream-fix-whats-an-open-source-project-to-do-35dg)
 * [It&#39;s all in the details! (.com)](https:&#x2F;&#x2F;dev.to&#x2F;uselagoon&#x2F;its-all-in-the-details-com-2c80)
 * [Juggling support levels with a small team - how do we keep all the balls in the air?](https:&#x2F;&#x2F;dev.to&#x2F;uselagoon&#x2F;juggling-support-levels-with-a-small-team-how-do-we-keep-all-the-balls-in-the-air-5gjf)
 * [Cloud-native - it’s a big buzzword these days, but what does it mean for me?](https:&#x2F;&#x2F;dev.to&#x2F;uselagoon&#x2F;cloud-native-its-a-big-buzzword-these-days-but-what-does-it-mean-for-me-5855)
-* [amazee.io (and Lagoon) join Mirantis](https:&#x2F;&#x2F;dev.to&#x2F;uselagoon&#x2F;amazeeio-and-lagoon-join-mirantis-5cp0)
 <!--END_SECTION:devtofeed-->
 
 ## Community Hours

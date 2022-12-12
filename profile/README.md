@@ -40,11 +40,11 @@ Check out our blog over at https://dev.to/uselagoon, where we write about how we
 
 ### Recent Articles
 <!--START_SECTION:devtofeed-->
+* [2023 Community Hours Schedule](https:&#x2F;&#x2F;dev.to&#x2F;uselagoon&#x2F;2023-community-hours-schedule-701)
 * [Announcing the official launch of the Lagoon Community on Discord!](https:&#x2F;&#x2F;dev.to&#x2F;uselagoon&#x2F;announcing-the-official-launch-of-the-lagoon-community-on-discord-4hji)
 * [build-deploy the future, a behind the scenes look at Lagoon](https:&#x2F;&#x2F;dev.to&#x2F;uselagoon&#x2F;build-deploy-the-future-a-behind-the-scenes-look-at-lagoon-160i)
 * [Cloud Noob to Cloud Native](https:&#x2F;&#x2F;dev.to&#x2F;uselagoon&#x2F;cloud-noob-to-cloud-native-2c3n)
 * [The Lagoon team at DrupalCon Prague!](https:&#x2F;&#x2F;dev.to&#x2F;uselagoon&#x2F;the-lagoon-team-at-drupalcon-prague-212e)
-* [Waiting for an upstream fix - what&#39;s an open-source project to do?](https:&#x2F;&#x2F;dev.to&#x2F;uselagoon&#x2F;waiting-for-an-upstream-fix-whats-an-open-source-project-to-do-35dg)
 <!--END_SECTION:devtofeed-->
 
 ## Community Hours

@@ -24,6 +24,8 @@ Likewise, we will be consolidating discussions about Lagoon into this repository
 
 Follow us on Twitter: https://www.twitter.com/uselagoon
 
+Follow us on Mastodon: https://fosstodon.org/@uselagoon
+
 Our Instagram is at https://www.instagram.com/uselagoon, though we haven’t had anything to post there yet - stay tuned!
 
 ## Join the Conversation
@@ -47,14 +49,18 @@ Check out our blog over at https://dev.to/uselagoon, where we write about how we
 
 ## Community Hours
 
-We will be holding a regularly scheduled community hour, where anyone in the community is welcome to drop in and ask us questions, talk about projects, and chat.
-It is currently scheduled to be held every two weeks, alternating between US and EU friendly timezones.
+We will be holding regularly scheduled community hours, where anyone in the community is welcome to drop in and ask us questions, talk about projects, and chat.
 
-### US timezone
-Every fourth Thursday, in the US afternoon / AusNZ early morning - check your timezone and next meeting at https://dateful.com/eventlink/2693259984
+We currently hold community hours every two weeks, alternating between timezones. For 2023, we have also added text-based chats in the Lagoon Discord, so folks can join asynchronously, without missing anything. 
+
+### US timezone 
+Every fourth Thursday, in the US afternoon / AusNZ early morning - check your timezone and next meeting at https://dateful.com/eventlink/2693259984.
 
 ### EU timezone
-Every fourth Tuesday, in the EU morning / AusNZ evening - check your timezone and next meeting at https://dateful.com/eventlink/3029145427
+Every fourth Tuesday, in the EU morning / AusNZ evening - check your timezone and next meeting at https://dateful.com/eventlink/3029145427.
+
+### Discord chat
+Every fourth Wednesday, in the US afternoon / AusNZ early morning - check your timezone and next meeting at https://dateful.com/eventlink/2140803586.
 
 ## Contribution
 

@@ -40,7 +40,7 @@ Check out our blog over at https://dev.to/uselagoon, where we write about how we
 
 ### Recent Articles
 <!--START_SECTION:devtofeed-->
-* [Introducing Topical Community Hourse!](https:&#x2F;&#x2F;dev.to&#x2F;uselagoon&#x2F;introducing-topical-community-hourse-1980)
+* [Introducing Topical Community Hours!](https:&#x2F;&#x2F;dev.to&#x2F;uselagoon&#x2F;introducing-topical-community-hourse-1980)
 * [Lagoon Walkthrough](https:&#x2F;&#x2F;dev.to&#x2F;uselagoon&#x2F;lagoon-walkthrough-1on1)
 * [Managing upstream security fixes in uselagoon docker images](https:&#x2F;&#x2F;dev.to&#x2F;uselagoon&#x2F;managing-upstream-security-fixes-in-uselagoon-docker-images-3bdo)
 * [Keeping pace with Kubernetes](https:&#x2F;&#x2F;dev.to&#x2F;uselagoon&#x2F;keeping-pace-with-kubernetes-54i4)

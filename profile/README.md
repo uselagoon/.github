@@ -40,11 +40,11 @@ Check out our blog over at https://dev.to/uselagoon, where we write about how we
 
 ### Recent Articles
 <!--START_SECTION:devtofeed-->
+* [What&#39;s New With Lagoon: Documentation](https:&#x2F;&#x2F;dev.to&#x2F;uselagoon&#x2F;whats-new-with-lagoon-documentation-3k0l)
 * [2024 Community Hours Survey](https:&#x2F;&#x2F;dev.to&#x2F;uselagoon&#x2F;2024-community-hours-survey-50m5)
 * [Announcing ComposableNOW!](https:&#x2F;&#x2F;dev.to&#x2F;uselagoon&#x2F;announcing-composablenow-jb9)
 * [Amazee Labs &amp; Lagoon](https:&#x2F;&#x2F;dev.to&#x2F;uselagoon&#x2F;amazee-labs-lagoon-2mgc)
 * [LagoonCon Recap](https:&#x2F;&#x2F;dev.to&#x2F;uselagoon&#x2F;lagooncon-recap-4mj5)
-* [Lagoon at DrupalCon Pittsburgh](https:&#x2F;&#x2F;dev.to&#x2F;uselagoon&#x2F;lagoon-at-drupalcon-pittsburgh-4je9)
 <!--END_SECTION:devtofeed-->
 
 ## Community Hours

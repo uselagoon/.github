@@ -40,11 +40,11 @@ Check out our blog over at https://dev.to/uselagoon, where we write about how we
 
 ### Recent Articles
 <!--START_SECTION:devtofeed-->
+* [What&#39;s New With Lagoon: Build Warnings](https:&#x2F;&#x2F;dev.to&#x2F;uselagoon&#x2F;whats-new-with-lagoon-build-warnings-11n3)
 * [Introducing a GitHub Action for Interacting with Lagoon](https:&#x2F;&#x2F;dev.to&#x2F;uselagoon&#x2F;introducing-a-github-action-for-interacting-with-lagoon-5a91)
 * [Lagoon Local Development Environments](https:&#x2F;&#x2F;dev.to&#x2F;uselagoon&#x2F;lagoon-local-development-environments-5a5j)
 * [Lagoon CLI Cheat Sheet](https:&#x2F;&#x2F;dev.to&#x2F;uselagoon&#x2F;lagoon-cli-cheat-sheet-55jn)
 * [What&#39;s New With Lagoon: UI Improvements](https:&#x2F;&#x2F;dev.to&#x2F;uselagoon&#x2F;whats-new-with-lagoon-ui-improvements-1hmc)
-* [What&#39;s New With Lagoon: Documentation](https:&#x2F;&#x2F;dev.to&#x2F;uselagoon&#x2F;whats-new-with-lagoon-documentation-3k0l)
 <!--END_SECTION:devtofeed-->
 
 ## Community Hours

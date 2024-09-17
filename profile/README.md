@@ -36,11 +36,11 @@ Check out our blog over at https://dev.to/uselagoon, where we write about how we
 
 ### Recent Articles
 <!--START_SECTION:devtofeed-->
+* [Lagoon v2.21 released](https:&#x2F;&#x2F;dev.to&#x2F;uselagoon&#x2F;lagoon-v221-released-2p7i)
 * [Upcoming Lagoon CLI release v0.30.0 - there&#39;s a lot of changes!](https:&#x2F;&#x2F;dev.to&#x2F;uselagoon&#x2F;upcoming-lagoon-cli-release-v0300-theres-a-lot-of-changes-13d8)
 * [Lagoon 2.20 Released!](https:&#x2F;&#x2F;dev.to&#x2F;uselagoon&#x2F;lagoon-220-released-1ek4)
 * [Sail:onLagoon!](https:&#x2F;&#x2F;dev.to&#x2F;uselagoon&#x2F;sailonlagoon-2o3c)
 * [LagoonCon Portland 2024 Recap](https:&#x2F;&#x2F;dev.to&#x2F;uselagoon&#x2F;lagooncon-portland-2024-recap-2o7p)
-* [Lagoon at DrupalCon Portland 2024](https:&#x2F;&#x2F;dev.to&#x2F;uselagoon&#x2F;lagoon-at-drupalcon-portland-2024-1abi)
 <!--END_SECTION:devtofeed-->
 
 ## Contribution

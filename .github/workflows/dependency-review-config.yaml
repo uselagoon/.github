@@ -1,0 +1,15 @@
+# https://github.com/cncf/foundation/blob/main/allowed-third-party-license-policy.md
+allow-licenses:
+- 'Apache-2.0'
+- 'BSD-2-Clause'
+- 'BSD-2-Clause-FreeBSD'
+- 'BSD-3-Clause'
+- 'ISC'
+- 'MIT'
+- 'PostgreSQL'
+- 'Python-2.0'
+- 'X11'
+- 'Zlib'
+# Additional OSI-approved licenses known to be in use in Lagoon packages
+- 'MPL-2.0'
+- 'GPL-2.0-or-later'

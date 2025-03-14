@@ -36,11 +36,11 @@ Check out our blog over at https://dev.to/uselagoon, where we write about how we
 
 ### Recent Articles
 <!--START_SECTION:devtofeed-->
+* [Lagoon v2.24: Enhanced Developer Control with Modernized Infrastructure](https:&#x2F;&#x2F;dev.to&#x2F;uselagoon&#x2F;lagoon-v224-enhanced-developer-control-with-modernized-infrastructure-65n)
 * [Lagoon v2.23: Enhanced Enterprise Controls &amp; Platform Stability](https:&#x2F;&#x2F;dev.to&#x2F;uselagoon&#x2F;lagoon-v223-enhanced-enterprise-controls-platform-stability-242g)
 * [Keeping Your Lagoon Dependencies Up-to-Date: A Developer&#39;s Guide](https:&#x2F;&#x2F;dev.to&#x2F;uselagoon&#x2F;keeping-your-lagoon-dependencies-up-to-date-a-developers-guide-43k)
 * [Lagoon v2.21 released](https:&#x2F;&#x2F;dev.to&#x2F;uselagoon&#x2F;lagoon-v221-released-2p7i)
 * [Upcoming Lagoon CLI release v0.30.0 - there&#39;s a lot of changes!](https:&#x2F;&#x2F;dev.to&#x2F;uselagoon&#x2F;upcoming-lagoon-cli-release-v0300-theres-a-lot-of-changes-13d8)
-* [Lagoon 2.20 Released!](https:&#x2F;&#x2F;dev.to&#x2F;uselagoon&#x2F;lagoon-220-released-1ek4)
 <!--END_SECTION:devtofeed-->
 
 ## Contribution

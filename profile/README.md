@@ -1,14 +1,6 @@
 # Community
 A central location for links out to the Lagoon community.
 
-## Table of Contents
-1. Documentation
-2. Roadmap
-3. Project Discussions
-4. Social Media
-5. Blog
-6. Contribution
-
 ## Documentation
 Our main documentation has been collated over at https://docs.lagoon.sh - head over there to see what's what - if you think we're missing something, please let us know.
 

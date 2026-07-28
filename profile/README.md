@@ -20,15 +20,11 @@ Likewise, we will be consolidating discussions about Lagoon into this repository
 
 ## Social Media
 
-Follow us on Twitter: https://www.twitter.com/uselagoon
+Follow us on X (Twitter): https://x.com/uselagoon
 
 Follow us on Mastodon: https://fosstodon.org/@uselagoon
 
 Our Instagram is at https://www.instagram.com/uselagoon, though we haven’t had anything to post there yet - stay tuned!
-
-## Join the Conversation
-
-Chat with us on Discord, and stay up to date with releases and blog posts: https://discord.gg/te5hHe95JE
 
 ## Blog
 
@@ -45,7 +41,7 @@ Check out our blog over at https://dev.to/uselagoon, where we write about how we
 
 ## Contribution
 
-As an open source project, we LOVE contributions. We have some info on getting started in our documentation: https://docs.lagoon.sh/contributing/. We'd also love for you to join us through any of our social media to chat about how you can contribute to Lagoon! Join the Discord and hop into the #contrib channel and dreop us a line!
+As an open source project, we LOVE contributions. We have some info on getting started in our documentation: https://docs.lagoon.sh/contributing. We'd also love for you to join us through any of our social media to chat about how you can contribute to Lagoon!
 
 
 

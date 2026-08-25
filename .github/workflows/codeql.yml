@@ -1,0 +1,11 @@
+name: CodeQL
+
+on:
+  workflow_dispatch: # Allows manual trigger only, never runs on PR or push
+
+jobs:
+  analyze:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Idle
+        run: echo "This workflow is deactivated."

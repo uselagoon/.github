@@ -18,22 +18,7 @@ Follow us on Mastodon: https://fosstodon.org/@uselagoon
 
 Our Instagram is at https://www.instagram.com/uselagoon, though we haven’t had anything to post there yet - stay tuned!
 
-## Blog
-
-Check out our blog over at https://dev.to/uselagoon, where we write about how we make Lagoon, tools we use and love, and open source bits of interest.
-
-### Recent Articles
-<!--START_SECTION:devtofeed-->
-* [Lagoon v2.26: Enhanced User Experience and Platform Reliability](https:&#x2F;&#x2F;dev.to&#x2F;uselagoon&#x2F;lagoon-v226-enhanced-user-experience-and-platform-reliability-319c)
-* [Lagoon v2.24: Enhanced Developer Control with Modernized Infrastructure](https:&#x2F;&#x2F;dev.to&#x2F;uselagoon&#x2F;lagoon-v224-enhanced-developer-control-with-modernized-infrastructure-65n)
-* [Lagoon v2.23: Enhanced Enterprise Controls &amp; Platform Stability](https:&#x2F;&#x2F;dev.to&#x2F;uselagoon&#x2F;lagoon-v223-enhanced-enterprise-controls-platform-stability-242g)
-* [Keeping Your Lagoon Dependencies Up-to-Date: A Developer&#39;s Guide](https:&#x2F;&#x2F;dev.to&#x2F;uselagoon&#x2F;keeping-your-lagoon-dependencies-up-to-date-a-developers-guide-43k)
-* [Lagoon v2.21 released](https:&#x2F;&#x2F;dev.to&#x2F;uselagoon&#x2F;lagoon-v221-released-2p7i)
-<!--END_SECTION:devtofeed-->
 
 ## Contribution
 
 As an open source project, we LOVE contributions. We have some info on getting started in our documentation: https://docs.lagoon.sh/contributing. We'd also love for you to join us through any of our social media to chat about how you can contribute to Lagoon!
-
-
-

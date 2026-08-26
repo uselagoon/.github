@@ -3,6 +3,8 @@ name: CodeQL
 on:
   workflow_dispatch: # Allows manual trigger only, never runs on PR or push
 
+permissions: {}
+
 jobs:
   analyze:
     runs-on: ubuntu-latest
